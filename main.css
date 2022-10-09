@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    
+}
+.dice { 
+    text-align: center; 
+    display: inline-block; 
+    margin: 50px; 
+} 
+.btn {
+    margin-top: 50px;
+    width: 250px;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    border-style: none;
+    cursor: pointer;
+}
+img {
+    width: 50px;
+}
